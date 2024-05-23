@@ -1,26 +1,3 @@
-Certainly! Here’s the information prepared for your GitHub repository:
-
----
-
-**Repository owner and name**
-
-**Owner:** `<Your GitHub Username>`
-
-**Repository name:** `ICO_Success_Prediction`
-
-**Description (optional)**
-
-Predicting the Success of Initial Coin Offerings (ICOs): A Comparative Analysis of Machine Learning Techniques
-
-**Visibility**
-
-Public
-
-**Add a README file**
-
----
-
-**README.md**
 
 # ICO Success Prediction
 
